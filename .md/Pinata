@@ -1,0 +1,105 @@
+# AMALGAMA DZR · PINATA BLOCKE · ANCLA LOCAL REAL
+## Acción Semiótica · Dinámica Cuántica · FALSOPAYLOAD · Dual Timestamp · BLOCKE-NODE-GIT
+
+**ID**: `AMALGAMA-DZR-PINATA-BLOCKE-20261006`  
+**Versión**: 1.0.0  
+**Estado**: `ANCLA_LOCAL_REAL · AMALGAMATED · PACKAGED`  
+**Fecha (UTC)**: 2026-10-06T23:26:00Z (aprox.)  
+**Serie**: AUD-LILITH · OSF_0000003 · seed `7.77-111`  
+**Institución**: DazrLabs S.A. de C.V. · RFC AEGE9201046D4  
+**Wallet de referencia**: `0x5d6329f9e33425367622f11F3e23eA15414a231f`
+
+---
+
+## 1. Identidad institucional DAZRLABS
+
+| Campo | Valor |
+|-------|-------|
+| Nombre | DazrLabs S.A. de C.V. |
+| RFC | AEGE9201046D4 |
+| Logo | Activo institucional (skills `dazrlabs-compilacion-editorial` / `dzr-hitechpublicity`) |
+| QR | ISO/IEC 18004:2024 · payload sugerido: `DAZRLABS\|7.77-111\|326d6fc05e387c11…\|bafkreiayqnoilv2…` |
+| Ontología cromática | Codex Xromax (Niger Azabachus · Albus Alabastrinus · Veriditas Transfiguratio) |
+
+**Skills aplicadas**: agentes-dzr · dzrchain-l1 · dzrmx2-dzrchain · dzrmx-root · octa-dazrlabs · dzr-oat-p · quantum-scientific-hypergraph · dzrautopoiesis
+
+---
+
+## 2. Información Git / BLOCKE-NODE-GIT
+
+- **Estado del sandbox**: no existe repositorio Git en `/home/workdir` ni en `/home/workdir/artifacts`.
+- El versionado se realiza mediante el ciclo **BLOCKE-NODE-GIT**:
+  ```
+  Node (pipeline local) → BLOCKE (evidencia tokenizada) → Git (commit del operador) → ciclo cerrado
+  ```
+- Mensaje de commit recomendado:  
+  `AMALGAMA-DZR-PINATA-BLOCKE-20261006 · ANCLA_LOCAL_REAL · dual-timestamp · FALSOPAYLOAD · multi-hash 256-512`
+
+---
+
+## 3. Inspección forense del sandbox (AGENTESDZR)
+
+| Parámetro | Valor |
+|-----------|-------|
+| Hostname | `hds-fi90wxpn76we` |
+| Kernel | Linux 6.12.8+ x86_64 |
+| Usuario | root |
+| Python | 3.12.3 |
+| Disco overlay | 20 G · 16 M usados · 19 G libres (1 %) |
+| Procesos | 11 |
+| Repos Git encontrados | 0 |
+| Protocolo | AGENTESDZR curator + listado forense + verificación multi-hash |
+
+---
+
+## 4. Origen Pinata / IPFS
+
+| Campo | Valor |
+|-------|-------|
+| Document ID (original) | `01a11371-356c-73a6-87c6-a5e9e7fb578c` |
+| Document ID (público) | `01a1137a-55fa-77d0-ac53-42a20d82d1e9` |
+| CID | `bafkreiayqnoilv2vr2qv32veu3k33av7nz73jieephhf276gp7i7zuh2le` |
+| Tipo | application/pdf (2 páginas A4) |
+| Título | MEMORIA_PERSISTENTE_ACCION_SEMIOTICA_DINAMICA_CUANTICA_2026-10-06 |
+| Tamaño | 68 126 bytes |
+
+---
+
+## 5. Ancla local real (BlockchainΩ / DZRchainL1-LOCAL)
+
+| Campo | Valor |
+|-------|-------|
+| chain_id | DZRchainL1-LOCAL |
+| altura | 1 |
+| hash_bloque | `326d6fc05e387c11bb96629d70325c3813310ba0bb86d3b4bcf54d13f684d3f5` |
+| root_merkle | `63e55b55a5ce2e242f2dc9649d151d426daa0f3d61151ab101ebc06387756d86` |
+| tx_hash | `63e55b55a5ce2e242f2dc9649d151d426daa0f3d61151ab101ebc06387756d86` |
+| payloadHash | `0x3bbfc307f0443df1b90ee025f3a35de772a1349fa198e5d88a8702a8d48e5174` |
+| validador | NODO-OFICIAL-DZRchainL1 |
+| status | **ANCLA_LOCAL_REAL** |
+
+Fases DZR-PIP 1→6 (incl. firma, TX y verificación locales) **cerradas**.
+
+---
+
+## 6. Dual Timestamp · TIEMPOENBULK · FALSOPAYLOAD
+
+- **UTC ISO**: `2026-10-06T23:14:54.125692+00:00`
+- **GENESIS_BULK**: 1 000 000.0  
+- **GENESIS_UTC**: 1 752 787 561.732052  
+- **PHI_CLOSURE**: 8.494678440936948  
+- **fork_id**: `FORK-2e7511db`  
+- **preservación λ**: True  
+- **token_address**: `0xe513f82edaf17569c8b54b5acbedeb5c1263a798`
+
+---
+
+## 7. Multi-hashes reales (256 → 512)
+
+### BLOCKE final (`BLOCKE_PINATA_20261006_004_LOCAL_ANCLA.json`)
+- **SHA-256**: `a84ea45da971f7cb437d0696953944c73f5de6490fdf1905bb5548f12581a2f9`
+- **SHA3-256**: `41e81e56a8181c90f9202eb44139150c61a9003b54f370ee9522ca5e6b3cd6bb`
+- **SHA-512**: `92e9d06cf2195171a18fc3f4ca52c2de69e75d8315ad2fa2773f860041842c3a48aec7df17072c1adff49c36f10be91f2201559863728636571d04b14384f267`
+- **SHA3-512**: `99fc56ffbe64e87b09092b602e60e92af08724a6d5b634715c95deef13aafef7b4990cb42ca9ba9cd435e5ea79b172647dd0119cc16dfac7afdd234fadea8f7e`
+- **BLAKE2b-256**: `bb9c462c81ddcddfc6653e4d3a1bc25fef75b707162647136be89d4
+... 
