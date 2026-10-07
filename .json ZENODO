@@ -1,0 +1,321 @@
+Integra esto y actualiza todo 
+
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-10-06T23:45:07.553533+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "0000001_AMALGAMA DZR \u00b7 PINATA BLOCKE \u00b7 ANCLA LOCAL REAL.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3fabdcc4088f50fcd0c8c48ad593aeee",
+        "ext": "pdf",
+        "id": "f48eca64-e85b-49d0-8a59-d9a0eb7e7ce4",
+        "key": "0000001_AMALGAMA DZR \u00b7 PINATA BLOCKE \u00b7 ANCLA LOCAL REAL.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/23199431/files/0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:23199431/canvas/0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/info.json",
+          "self": "https://zenodo.org/api/records/23199431/files/0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 596
+        },
+        "mimetype": "application/pdf",
+        "size": 76692,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 76692
+  },
+  "id": "23199431",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/23199431/access",
+    "access_grants": "https://zenodo.org/api/records/23199431/access/grants",
+    "access_links": "https://zenodo.org/api/records/23199431/access/links",
+    "access_request": "https://zenodo.org/api/records/23199431/access/request",
+    "access_users": "https://zenodo.org/api/records/23199431/access/users",
+    "archive": "https://zenodo.org/api/records/23199431/files-archive",
+    "archive_media": "https://zenodo.org/api/records/23199431/media-files-archive",
+    "communities": "https://zenodo.org/api/records/23199431/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/23199431/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.23199431",
+    "draft": "https://zenodo.org/api/records/23199431/draft",
+    "file_modification": "https://zenodo.org/api/records/23199431/file-modification",
+    "files": "https://zenodo.org/api/records/23199431/files",
+    "latest": "https://zenodo.org/api/records/23199431/versions/latest",
+    "latest_html": "https://zenodo.org/records/23199431/latest",
+    "media_files": "https://zenodo.org/api/records/23199431/media-files",
+    "parent": "https://zenodo.org/api/records/23199430",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23199430",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23199430",
+    "parent_html": "https://zenodo.org/records/23199430",
+    "preview_html": "https://zenodo.org/records/23199431?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/23199431/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/23199431/request-deletion",
+    "requests": "https://zenodo.org/api/records/23199431/requests",
+    "reserve_doi": "https://zenodo.org/api/records/23199431/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/23199431",
+    "self_doi": "https://doi.org/10.5281/zenodo.23199431",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23199431",
+    "self_html": "https://zenodo.org/records/23199431",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:23199431/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:23199431/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:23199431:0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/23199431/versions"
+  },
+  "media_files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "0000001_AMALGAMA DZR \u00b7 PINATA BLOCKE \u00b7 ANCLA LOCAL REAL.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1138b03f-4c9e-4ae0-915c-a987deb306b0",
+        "key": "0000001_AMALGAMA DZR \u00b7 PINATA BLOCKE \u00b7 ANCLA LOCAL REAL.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/23199431/files/0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/23199431/files/0000001_AMALGAMA%20DZR%20%C2%B7%20PINATA%20BLOCKE%20%C2%B7%20ANCLA%20LOCAL%20REAL.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f48eca64-e85b-49d0-8a59-d9a0eb7e7ce4",
+          "status": "init",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "contributors": [
+      {
+        "person_or_org": {
+          "family_name": "Arellano Gayt\u00e1n",
+          "given_name": "Erick Adrian",
+          "identifiers": [
+            {
+              "identifier": "0009-0002-8409-2530",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Arellano Gayt\u00e1n, Erick Adrian",
+          "type": "personal"
+        },
+        "role": {
+          "id": "projectmanager",
+          "title": {
+            "de": "ProjektmanagerIn",
+            "en": "Project manager"
+          }
+        }
+      }
+    ],
+    "copyright": "2026 \u00a9 DAZRLABS",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "04r3n1y47",
+            "identifiers": [
+              {
+                "identifier": "04r3n1y47",
+                "scheme": "ror"
+              }
+            ],
+            "name": "Consejo Zacatecano de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n"
+          },
+          {
+            "id": "01m296r74",
+            "identifiers": [
+              {
+                "identifier": "01m296r74",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412865.c",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2105 1788",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Universidad Aut\u00f3noma de Zacatecas \"Francisco Garc\u00eda Salinas\""
+          },
+          {
+            "id": "03ec8vy26",
+            "identifiers": [
+              {
+                "identifier": "03ec8vy26",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.412851.b",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2296 5119",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Autonomous University of Aguascalientes"
+          }
+        ],
+        "person_or_org": {
+          "name": "DAZRLABS\u00a9 S.A.S",
+          "type": "organizational"
+        },
+        "role": {
+          "id": "researchgroup",
+          "title": {
+            "de": "Forschungsgruppe",
+            "en": "Research group"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-10-06",
+        "description": "Published",
+        "type": {
+          "id": "copyrighted",
+          "title": {
+            "de": "Mit Copyright versehen",
+            "en": "Copyrighted"
+          }
+        }
+      }
+    ],
+    "description": "<p>ANCLA BLOCKEL1-0000001</p>",
+    "languages": [
+      {
+        "id": "spa",
+        "title": {
+          "en": "Spanish"
+        }
+      }
+    ],
+    "publication_date": "2026-10-07",
+    "publisher": "DAZRLABS\u00a9 S.A.S",
+    "resource_type": {
+      "id": "publication-report",
+      "title": {
+        "de": "Bericht",
+        "en": "Report"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "id": "apache-2.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        },
+        "title": {
+          "en": "Apache License 2.0"
+        }
+      }
+    ],
+    "title": "BLOCKE/DZRchainL1/0000001"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1451795"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "23199430",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.23199430",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.23199431",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:23199431",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-10-06T23:45:07.944995+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
